@@ -1,6 +1,9 @@
-    * app.py
-    * requirements.txt
-    * README.md
-    * data/companies.csv
-    * data/etfs.csv
-    * data/capex_events.csv
+ai-infrastructure-dashboard/
+│
+├── app.py              ✅ MUST be here
+├── requirements.txt
+├── README.md
+└── data/
+    ├── companies.csv
+    ├── etfs.csv
+    └── capex_events.csv
