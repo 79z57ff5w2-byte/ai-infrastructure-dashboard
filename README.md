@@ -1,0 +1,5 @@
+- app.py
+- requirements.txt
+- data/companies.csv
+- data/etfs.csv
+- data/capex_events.csv
