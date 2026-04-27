@@ -1,5 +1,4 @@
 ai-infrastructure-dashboard/
-
 app.py
 requirements.txt
 README.md
