@@ -1,6 +1,6 @@
 ai-infrastructure-dashboard/
 │
-├── app.py
+├── app.py              ✅ MUST be here
 ├── requirements.txt
 ├── README.md
 └── data/
