@@ -1,1 +1,0 @@
-AI Industry End-to-End System View\n\nTop 5 companies across each AI value-chain layer.\n\nDeploy with main file path: app.py\n
