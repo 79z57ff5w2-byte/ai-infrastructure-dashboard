@@ -1,0 +1,13 @@
+Company,Ticker,Sector,Sub-Sector,Region,AI Value Chain Role,AI Exposure Score,Revenue Growth YoY (%),Capex Intensity (%),Key Customers,Major Contracts,Capacity Expansion,Investment Signal,Notes,Last Updated
+NVIDIA,NVDA,Semiconductors,GPUs/AI Accelerators,US,Compute,98,200,5,Hyperscalers; AI labs,Data center GPU supply,Ongoing AI accelerator roadmap,Bullish,Core compute bottleneck company,2026-04-27
+AMD,AMD,Semiconductors,GPUs/CPUs,US,Compute,82,15,5,Hyperscalers; enterprises,AI accelerator ramp,MI series expansion,Bullish,Second-source AI compute exposure,2026-04-27
+ASML,ASML,Semiconductors,Lithography Equipment,Europe,Equipment,90,20,10,TSMC; Samsung; Intel,EUV equipment supply,High-NA EUV ramp,Bullish,Critical semiconductor equipment position,2026-04-27
+Applied Materials,AMAT,Semiconductors,Semiconductor Equipment,US,Equipment,78,8,8,Foundries; memory makers,Wafer fabrication equipment,Advanced node tooling,Neutral,Broad chip equipment exposure,2026-04-27
+TSMC,TSM,Semiconductors,Foundry,Asia,Fabrication,94,30,35,NVIDIA; Apple; AMD,Advanced node manufacturing,Global fab expansion,Bullish,Backbone of advanced AI chip production,2026-04-27
+Broadcom,AVGO,Semiconductors,Networking/ASICs,US,Networking,86,40,6,Hyperscalers,AI networking and custom silicon,AI networking expansion,Bullish,Important for AI networking and custom chips,2026-04-27
+Equinix,EQIX,Data Centers,Colocation,US,Data Center,76,12,35,Cloud providers; enterprises,Data center capacity leasing,Global data center expansion,Neutral,AI demand beneficiary but power availability matters,2026-04-27
+Digital Realty,DLR,Data Centers,Data Center REIT,US,Data Center,74,10,40,Hyperscalers; enterprises,Data center leasing,Global capacity expansion,Neutral,Large AI data center demand beneficiary,2026-04-27
+Constellation Energy,CEG,Energy,Nuclear Power,US,Power,80,5,45,Utilities; hyperscalers,Power supply agreements,Nuclear capacity optimization,Bullish,Potential winner from firm clean power demand,2026-04-27
+NextEra Energy,NEE,Energy,Renewables/Utility,US,Power,70,6,50,Utilities; corporates,Renewable energy PPAs,Renewable capacity additions,Neutral,Large clean energy exposure,2026-04-27
+Vertiv,VRT,Cooling,Power/Cooling Infrastructure,US,Cooling,88,20,10,Data centers; hyperscalers,Power and cooling infrastructure,Data center cooling capacity,Bullish,Direct AI data center thermal management exposure,2026-04-27
+Arista Networks,ANET,Networking,Cloud Networking,US,Networking,84,25,7,Hyperscalers; cloud providers,Data center switching,AI networking expansion,Bullish,AI clusters need high-speed networking,2026-04-27
