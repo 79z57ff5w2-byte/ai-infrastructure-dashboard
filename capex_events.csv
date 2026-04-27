@@ -1,0 +1,6 @@
+Event Name,Company,Event Type,Capex Amount ($B),YoY Change (%),AI Relevance,Beneficiaries,Market Reaction,Signal Strength,Investment Interpretation,Source,Date
+Hyperscaler AI data center buildout,Microsoft,Capex Announcement,50,35,High,"NVIDIA; TSMC; Vertiv; Constellation Energy; Arista Networks",Positive,Strong,Large AI capex supports compute, networking, power, and cooling demand,Manual placeholder,2026-04-27
+Cloud AI infrastructure expansion,Amazon,Capex Announcement,60,30,High,"NVIDIA; Broadcom; TSMC; Vertiv; Digital Realty",Positive,Strong,Continued cloud AI spending supports full infrastructure stack,Manual placeholder,2026-04-27
+AI training and inference capacity expansion,Alphabet,Capex Announcement,45,25,High,"Broadcom; NVIDIA; TSMC; Arista Networks; NextEra Energy",Neutral,Strong,AI model development and inference scale reinforces chip and power demand,Manual placeholder,2026-04-27
+Advanced foundry capacity investment,TSMC,Data Center Expansion,35,20,High,"ASML; Applied Materials; NVIDIA; AMD",Positive,Moderate,Advanced node capacity supports AI accelerator supply growth,Manual placeholder,2026-04-27
+Nuclear power demand from data centers,Constellation Energy,Power Agreement,5,15,High,"Constellation Energy; data center operators",Positive,Moderate,Firm clean power becomes strategic bottleneck for AI data centers,Manual placeholder,2026-04-27
