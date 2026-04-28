@@ -444,7 +444,7 @@ with tabs[8]:
     st.write("Use official provider downloads where possible. Paste direct CSV/XLS/XLSX holdings file URLs, or upload provider files manually.")
 
     st.markdown("### Official provider pages")
-    provider_df = pd.DataFrame([{"ETF": k, "Provider Page": v} for k, v in PROVIDER_PAGES.items()])
+    provider_df = pd.DataFrame([{"ETF": etf, "Provider Page": v} for k, v in PROVIDER_PAGES.items()])
     st.dataframe(provider_df, use_container_width=True, hide_index=True)
 
     st.info("Provider websites change often. If a direct file URL fails, open the provider page above, download the holdings CSV/XLSX, then upload it below.")
